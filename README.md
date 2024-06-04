@@ -1,5 +1,5 @@
-<font size="6">
-Pattern finding on images
+<font size="12">
+PATTERN FINDING ON IMAGES
 </font>
 
 <br>
